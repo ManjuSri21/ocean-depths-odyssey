@@ -32,7 +32,7 @@ Experience a seamless transition through four distinct oceanic layers, each feat
 * **Interactive Quiz:** Test your deep-sea knowledge once you reach the Abyss.
 * **Custom Certificate:** Pass the quiz to generate a dynamic, printable **"Deep Diver Certificate"** 🏅 featuring custom generated wave imagery.
 
-🕵️ **Hidden Easter Eggs**
+🕵️ **Hidden Kraken camera-shake attack**
 * Look closely in the Midnight zone... clicking a faint, glowing red eye 3 times triggers a massive **Kraken camera-shake attack!** 👀
 
 ---
