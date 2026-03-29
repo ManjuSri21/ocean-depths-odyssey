@@ -4,6 +4,13 @@
 
 ---
 
+🎥 Live Preview
+<p align="center"> <img src="https://your-gif-link-here.gif" width="800" alt="Ocean Depths Demo"/> </p>
+
+👉 🔗 Live Demo: https://ocean-depths-website.vercel.app/ (Vercel)
+
+---
+
 ## 🌟 Overview
 
 **Frontend Odyssey: Ocean Depths** is a scroll-driven interactive web experience that simulates a journey from the ocean surface down to its deepest, most mysterious regions. Built entirely using **Vanilla HTML, CSS, and JavaScript**, this project drops heavy frameworks in favor of raw performance, delivering a fully immersive storytelling experience where users dive deeper with every scroll.
