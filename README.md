@@ -5,9 +5,8 @@
 ---
 
 🎥 Live Preview
-<p align="center"> <img src="https://your-gif-link-here.gif" width="800" alt="Ocean Depths Demo"/> </p>
 
-👉 🔗 Live Demo: https://ocean-depths-website.vercel.app/ (Vercel)
+🔗 Live Demo: https://ocean-depths-website.vercel.app/ 
 
 ---
 
