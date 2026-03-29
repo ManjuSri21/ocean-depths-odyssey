@@ -40,6 +40,3 @@ Since this is a fully static website without any heavy build processes or packag
    ```
 2. Navigate into the project folder.
 3. Simply double-click on `index.html` to open it in any modern web browser or use an extension like VSCode Live Server.
-
-## 🏆 Hackathon Inspiration
-This project was designed and built with a heavy focus on **UI/UX excellence, performance, and creative frontend engineering.** We wanted to push the boundaries of what purely vanilla frontend web technologies could achieve in crafting a cinematic user journey.
